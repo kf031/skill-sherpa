@@ -1,0 +1,11 @@
+{
+  "name": "skill-sherpa",
+  "version": "1.0.0",
+  "description": "Discover marketplace plugins that match your task without leaving Claude CLI. Proactively suggests specialized plugins when you're working in areas Claude isn't optimized for — UI design, code review, security, databases, mobile dev, hardware, browser testing, and more. Ranks results by trust (official > partners > community) and shows exact install commands.",
+  "author": {
+    "name": "Kf",
+    "email": ""
+  },
+  "category": "productivity",
+  "homepage": "https://github.com/kf031/skill-sherpa"
+}
